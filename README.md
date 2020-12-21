@@ -8,7 +8,7 @@ Use twrp.
 # works just to android 8.1?
 No.
 
-# have HMID? 
+# works HID? 
 No.
 
 # what model works?
