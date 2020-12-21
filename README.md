@@ -1,3 +1,18 @@
 # nethunterkernel_j4core
 
-Zip to twrp.
+#what the kernel brings? 
+
+Kernel brings wifi adapters, no forget of 
+install drives to adapters in magisk.
+
+#how to install?
+
+In twrp
+
+#works just to android 8.1?
+
+No.
+
+#have HMID?
+
+no.
