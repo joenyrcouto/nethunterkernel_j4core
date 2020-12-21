@@ -10,3 +10,6 @@ No.
 
 # have HMID? 
 No.
+
+# what model works?
+j410g and j410f works.
