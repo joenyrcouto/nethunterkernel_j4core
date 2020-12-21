@@ -1,4 +1,4 @@
-![Screenshot](logo.png "logo")
+![Screenshot](logo.jpg "logo")
 
 # what the kernel brings? 
 Kernel brings wifi adapters, not forget of 
