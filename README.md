@@ -1,5 +1,3 @@
-![photo](logo.jpg)
-
 # what the kernel brings? 
 Kernel brings wifi adapters, not forget of 
 install drives to adapters in magisk.
