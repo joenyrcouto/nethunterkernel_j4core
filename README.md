@@ -1,6 +1,3 @@
-# nethunterkernel_j4core
-
-
 # what the kernel brings? 
 Kernel brings wifi adapters, no forget of 
 install drives to adapters in magisk.
