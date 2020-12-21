@@ -7,12 +7,11 @@ install drives to adapters in magisk.
 
 #how to install?
 
-In twrp
+Use twrp.
 
 #works just to android 8.1?
 
 No.
 
 #have HMID?
-
-no.
+No.
