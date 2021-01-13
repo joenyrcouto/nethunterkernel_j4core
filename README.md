@@ -5,6 +5,7 @@ Kernel brings wifi adapters, not is all adapters works, not forget of
 install drives to adapters in magisk.
 
 *Tested adapters:
+
 TL-WN722N V1 - works
 mt7601u - don't works
 
