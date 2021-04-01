@@ -7,7 +7,7 @@ install drives to adapters in magisk.
 # Tested adapters:
 TL-WN722N V1 - works :)
 
-mt7601u - don't works :/
+mt7601u - don't worked :/
 
 # how to install? 
 Use twrp.
