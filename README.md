@@ -18,5 +18,5 @@ No.
 # works HID? 
 No.
 
-# what model works?
+# which model works?
 j410g and j410f works.
