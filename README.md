@@ -12,7 +12,7 @@ mt7601u - don't worked :/
 # how to install? 
 Use twrp.
 
-# works just to android 8.1?
+# works just android 8.1?
 No.
 
 # works HID? 
